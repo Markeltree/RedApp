@@ -6,7 +6,6 @@ const links = [
   { href: '#screens', label: 'App' },
   { href: '#features', label: 'Features' },
   { href: '#safety', label: 'Safety' },
-  { href: '#pricing', label: 'Pricing' },
   { href: '#faq', label: 'FAQ' },
 ]
 

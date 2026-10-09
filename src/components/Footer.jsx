@@ -4,7 +4,7 @@ import { Facebook, Instagram, LinkedIn, XLogo } from './Icons'
 const columns = [
   {
     title: 'Product',
-    links: [['Features', '#features'], ['Pricing', '#pricing'], ['Safety', '#safety'], ['Download', '#download']],
+    links: [['Features', '#features'], ['Safety', '#safety'], ['Download', '#download']],
   },
   {
     title: 'Company',
